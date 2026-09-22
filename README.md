@@ -17,10 +17,12 @@ SolidRecon supports 64-bit versions of Windows 10 and Windows 11.
 2. Run the downloaded file and follow the on-screen instructions.
 3. Launch SolidRecon after the installation is complete.
 
-## GPU Feature Set Up
+Korean and English user manuals are also available for download from the installation page.
+
+## GPU Feature Setup
 
 GPU-powered AI features require an NVIDIA driver and the following components.
-For more information, see **AI Feature Configuration** on the [installation page](https://kr.object.ncloudstorage.com/solidrecon-install/SolidReconV1/Publish.html).
+For more information, see the [AI Feature Configuration Guide](https://kr.object.ncloudstorage.com/solidrecon-install/SolidReconV1/ai-setup.html).
 
 1. [Download CUDA Toolkit 12.8](https://developer.nvidia.com/cuda-12-8-0-download-archive)
 2. [Download cuDNN 9.3](https://developer.nvidia.com/cudnn-9-3-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=Agnostic&cuda_version=12)
@@ -41,7 +43,7 @@ For more information, see **AI Feature Configuration** on the [installation page
 - If SolidRecon is already running, close it and try again.
 - Take a screenshot of the installation error and send it to the support team.
 
-### GPU feature Issues
+### GPU Feature Issues
 
 - Make sure that the latest NVIDIA graphics driver is installed.
 - Make sure that CUDA Toolkit 12.8 and cuDNN 9.3 are installed.
